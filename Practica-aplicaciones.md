@@ -85,17 +85,17 @@ server {
 }
 ~~~
 
-![instalacionWP](aimg.png)
-![instalacionWP](bimg.png)
+![instalacionWP](images/aimg.png)
+![instalacionWP](images/bimg.png)
 
 La siguiente pantalla indica que no ha encontrado el fichero wp-config.php:
-![instalacionWP](cimg.png)
+![instalacionWP](images/cimg.png)
 Para ello, se crea el fichero y se introduce el código que sale por pantalla dentro del nuevo fichero:
 ~~~
 [centos@salmorejo ~]$ sudo touch /usr/share/nginx/html/wordpress/wp-config.php
 ~~~
-![instalacionWP](dimg.png)
-![instalacionWP](eimg.png)
+![instalacionWP](images/dimg.png)
+![instalacionWP](images/eimg.png)
 
 
 ### URL limpia
@@ -106,13 +106,13 @@ Se necesita modificar la línea **try_files $uri $uri/ =404;** que aparece bajo 
 ~~~
 
 Antes de la modificación la URL aparece de la siguiente forma:
-![instalacionWP](iimg.png)
+![instalacionWP](images/iimg.png)
 
 Desde el usuario administrador de WordPress se selecciona el formato que se quiere utilidar en la URL desde Ajustes>Ajustes de los enlaces permanentes:
-![instalacionWP](jimg.png)
+![instalacionWP](images/jimg.png)
 
 Y el resultado es el siguiente:
-![instalacionWP](kimg.png)
+![instalacionWP](images/kimg.png)
 
 
 
@@ -334,7 +334,7 @@ Se reinician los servicios de php-fpm y nginx:
 ~~~
 
 Puede que NextCloud necesite una serie de módulos de php.
-![instalacionWP](fimg.png)
+![instalacionWP](images/fimg.png)
 
 Hay que asegurarse que están correctamente instalados los siguinetes paquetes:
 ~~~
@@ -342,10 +342,10 @@ Hay que asegurarse que están correctamente instalados los siguinetes paquetes:
 ~~~
 
 Se ingresan los datos necesarios para activar el servicio. En primer lugar un usuario, que vamos a llamar paloma, la dirección del directorio data y los datos de la base de datos que hemos creado anterioremente para este servicio (usuario, contraseña, nombre de la base de datos e IP de la máquina donde se aloja la base de datos).
-![instalacionWP](gimg.png)
+![instalacionWP](images/gimg.png)
 
 Y de esta forma se consigue entrar en la aplicación NextCloud:
-![instalacionWP](himg.png)
+![instalacionWP](images/himg.png)
 
 
 

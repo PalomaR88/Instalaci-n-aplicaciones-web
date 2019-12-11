@@ -1,1 +1,12 @@
-# Instalaci-n-aplicaciones-web
+# [Instalación aplicaciones web](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md)
+### 1. [Creación de sitio WordPress](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#creaci%C3%B3n-de-sitio-wordpress)
+#### 1.1. [Actualización de php](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#actualizaci%C3%B3n-de-php)
+#### 1.2. [Configuración de selinux para WordPress](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#configuraci%C3%B3n-de-selinux-para-wordpress)
+#### 1.3. [Configuración de la base de datos remota](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#configuraci%C3%B3n-de-la-base-de-datos-remota)
+#### 1.4. [Instalación de WordPress en Centos](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#instalaci%C3%B3n-de-wordpress-en-centos)
+#### 1.5. [URL limpia](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#url-limpia)
+--------------------------------------------------------------------------------------
+### 2. [Creación de sitio NextCloud](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#creaci%C3%B3n-de-sitio-nextcloud)
+#### 2.1. [Modificaciones Selinux para NextCloud](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#modificaciones-selinux-para-nextcloud)
+#### 2.2. [Creación de la nueva base de datos](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#creaci%C3%B3n-de-una-nueva-base-de-datos)
+#### 2.3. [Instalación de NextCloud en CentOS8](https://github.com/PalomaR88/Instalacion_aplicaciones_web/blob/master/Practica-aplicaciones.md#instalaci%C3%B3n-de-nextcloud-en-centos8)

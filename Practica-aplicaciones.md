@@ -166,7 +166,7 @@ Query OK, 0 rows affected (0.00 sec)
 
 
 
-### Instalación de NextCloud en CentOS7
+### Instalación de NextCloud en CentOS8
 
 Descargar NextCloud:
 ~~~
